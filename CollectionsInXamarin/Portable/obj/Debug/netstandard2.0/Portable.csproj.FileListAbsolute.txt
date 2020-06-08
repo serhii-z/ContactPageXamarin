@@ -1,0 +1,40 @@
+D:\project xamarin\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.deps.json
+D:\project xamarin\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.dll
+D:\project xamarin\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.pdb
+D:\project xamarin\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfoInputs.cache
+D:\project xamarin\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfo.cs
+D:\project xamarin\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.dll
+D:\project xamarin\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.pdb
+D:\project xamarin\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.deps.json
+C:\Users\user\Desktop\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.dll
+C:\Users\user\Desktop\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.pdb
+C:\Users\user\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfo.cs
+C:\Users\user\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.dll
+C:\Users\user\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.pdb
+C:\projects\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.deps.json
+C:\projects\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.dll
+C:\projects\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.pdb
+C:\projects\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfoInputs.cache
+C:\projects\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfo.cs
+C:\projects\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.dll
+C:\projects\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.pdb
+C:\projects\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.deps.json
+C:\Users\Admin\Desktop\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.pdb
+D:\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.deps.json
+D:\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.dll
+D:\CollectionsInXamarin\Portable\bin\Debug\netstandard2.0\Portable.pdb
+D:\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.csprojAssemblyReference.cache
+D:\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfoInputs.cache
+D:\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.AssemblyInfo.cs
+D:\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.dll
+D:\CollectionsInXamarin\Portable\obj\Debug\netstandard2.0\Portable.pdb

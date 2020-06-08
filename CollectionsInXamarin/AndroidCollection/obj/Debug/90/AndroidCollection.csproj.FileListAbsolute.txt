@@ -1,0 +1,1323 @@
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\build.props
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\adb.props
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.csprojAssemblyReference.cache
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resourcepaths.cache
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res.flag
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\7621b326c45bbc31990613908ea22a85b407288d.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\e7046e7e1db480d7b21940066b332b19ae079647.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\34773f8f05f01a9f88a4919e13f561c07fbc8fb7.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\8d42eda385a6e030691f909a79c4027854ec1dff.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\68d78a647ec9e082907dc298fb4e159c8de22659.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\83e6749701526dc03372beed74f1f20cdd8bf593.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\af0e56da9bdc8e56d93d36d350ffefb6fde7e1b8.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\c5ab2b57ddcc7cb93186271577919d8994dc743f.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\1d9154fdb4f5cdb28fd3de2b31c9f71d4f4b961f.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\7621b326c45bbc31990613908ea22a85b407288d.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\e7046e7e1db480d7b21940066b332b19ae079647.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\34773f8f05f01a9f88a4919e13f561c07fbc8fb7.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\8d42eda385a6e030691f909a79c4027854ec1dff.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\68d78a647ec9e082907dc298fb4e159c8de22659.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\83e6749701526dc03372beed74f1f20cdd8bf593.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\af0e56da9bdc8e56d93d36d350ffefb6fde7e1b8.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\c5ab2b57ddcc7cb93186271577919d8994dc743f.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\1d9154fdb4f5cdb28fd3de2b31c9f71d4f4b961f.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\compiled.flata
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\R.txt
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\R.cs.flag
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\bin\Debug\AndroidCollection.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\bin\Debug\AndroidCollection.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection.apk
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection-Signed.apk
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\bin\Debug\Portable.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\bin\Debug\Portable.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.csproj.CopyComplete
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\com.companyname.androidcollection.apk
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\activity_main.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\content_main.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\colors.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\dimens.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\ic_launcher_background.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\strings.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\styles.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\menu\menu_main.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image2.jpg
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\card_view.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image1.jpg
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image3.jpg
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image4.jpg
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image5.jpg
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image6.jpg
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image7.jpg
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\user_activity.xml
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\uploadflags.txt
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resolvedassemblies.hash
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\AndroidCollection.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Java.Interop.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Mono.Android.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\mscorlib.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Portable.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Core.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Numerics.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Runtime.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Xml.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Net.Http.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Drawing.Common.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\netstandard.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Data.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Transactions.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.IO.Compression.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Web.Services.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Xml.Linq.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Mono.Security.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\AndroidCollection.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Mono.Android.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Portable.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Essentials.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\link.flag
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\AndroidCollection.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\AndroidCollection.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Java.Interop.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Android.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Security.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\mscorlib.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\netstandard.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Portable.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Portable.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Core.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Drawing.Common.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Transactions.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Web.Services.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.Linq.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86.s
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86_64.s
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86.s
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86_64.s
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\machine.config
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\mono.android.jar
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\static.flag
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\buildid.txt
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\transition\R.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\design\R.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\customtabs\R.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\compat\R.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md50f3fb3f15e400c52618bc2211ca0dfe5\MainActivity.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md50f3fb3f15e400c52618bc2211ca0dfe5\UserActivity.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md50f3fb3f15e400c52618bc2211ca0dfe5\UserAdapter.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\packaged_resources
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\com\companyname\androidcollection\R.java
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\classes.dex
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertCustomView.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\add.png
+D:\project xamarin\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md50f3fb3f15e400c52618bc2211ca0dfe5\Card.java
+C:\projects\CollectionsInXamarin\AndroidCollection\bin\Debug\AndroidCollection.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\bin\Debug\AndroidCollection.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection.apk
+C:\projects\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection-Signed.aab
+C:\projects\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection-Signed.apk
+C:\projects\CollectionsInXamarin\AndroidCollection\bin\Debug\Portable.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\bin\Debug\Portable.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\build.props
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\adb.props
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.csprojAssemblyReference.cache
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resourcepaths.cache
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resourcecache.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res.flag
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\009B1F50EEC14345.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\CC57AE0BD0C1640D.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\DC46132E87C110ED.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\0F6E9D8A06E7EF96.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\E373B692558061B7.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\A737D95B40807C8F.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\0C36BD766684AA43.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\4872D2BF7384B77B.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\58636F9A2484C39B.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\009B1F50EEC14345.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\CC57AE0BD0C1640D.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\DC46132E87C110ED.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\0F6E9D8A06E7EF96.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\E373B692558061B7.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\A737D95B40807C8F.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\0C36BD766684AA43.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\4872D2BF7384B77B.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\58636F9A2484C39B.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\compiled.flata
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\R.txt
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\R.cs.flag
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.csproj.CopyComplete
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\com.companyname.androidcollection.apk
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\base.zip
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\com.companyname.androidcollection.aab
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\com.companyname.androidcollection.apks
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\activity_main.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\content_main.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\colors.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\dimens.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\ic_launcher_background.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\strings.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\styles.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\menu\menu_main.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image2.jpg
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\card_view.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image1.jpg
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image3.jpg
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image4.jpg
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image5.jpg
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image6.jpg
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image7.jpg
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\user_activity.xml
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\add.png
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\uploadflags.txt
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resolvedassemblies.hash
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\AndroidCollection.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\AndroidCollection.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Java.Interop.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Android.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Security.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\mscorlib.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\mscorlib.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\netstandard.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Portable.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Portable.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Core.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Core.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Transactions.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\__environment__.txt
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\machine.config
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\mono.android.jar
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\static.flag
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\buildid.txt
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.arm64-v8a.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.x86.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.x86_64.s
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\transition\R.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\design\R.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\compat\R.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64df20ea0efce269a1\Card.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64df20ea0efce269a1\MainActivity.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64df20ea0efce269a1\UserActivity.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64df20ea0efce269a1\UserAdapter.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\packaged_resources
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\com\companyname\androidcollection\R.java
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86_64.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86_64.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.arm64-v8a.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.x86.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.x86_64.o
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\classes.dex
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\projects\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\bin\Debug\AndroidCollection.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\bin\Debug\AndroidCollection.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection.apk
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection-Signed.apk
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\bin\Debug\Portable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\bin\Debug\Portable.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\build.props
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\adb.props
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resourcepaths.cache
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res.flag
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\90681891fb5f590df8ec19c3482a6b5dcd5db47b.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\1d9dc7592937d62c7a6744cdf74d381c056dd788.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\0c3727364e8d1d8ee853afc707f738cf7cd3a1cd.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\72c67e948f4ec0e15693a87faca435b183814f4b.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\39c06adec15e1126c52d07f94389c88d8337f4e7.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\a432c04ca0c36cd1cbdcd572d2a01da36ef6c224.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\d8857cbf155b669fe6c06b4e9f2956d62d1c515d.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\8af6c97291c4782af7836699a9517ff5b51d1a20.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\02d58d20b1ff212d61f537ee89ed669b055177df.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\90681891fb5f590df8ec19c3482a6b5dcd5db47b.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\1d9dc7592937d62c7a6744cdf74d381c056dd788.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\0c3727364e8d1d8ee853afc707f738cf7cd3a1cd.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\72c67e948f4ec0e15693a87faca435b183814f4b.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\39c06adec15e1126c52d07f94389c88d8337f4e7.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\a432c04ca0c36cd1cbdcd572d2a01da36ef6c224.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\d8857cbf155b669fe6c06b4e9f2956d62d1c515d.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\8af6c97291c4782af7836699a9517ff5b51d1a20.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\02d58d20b1ff212d61f537ee89ed669b055177df.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\compiled.flata
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\R.txt
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\R.cs.flag
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.csproj.CopyComplete
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\com.companyname.androidcollection.apk
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\activity_main.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\content_main.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\colors.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\dimens.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\ic_launcher_background.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\strings.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\styles.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\menu\menu_main.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image2.jpg
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\card_view.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image1.jpg
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image3.jpg
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image4.jpg
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image5.jpg
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image6.jpg
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image7.jpg
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\user_activity.xml
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\add.png
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\uploadflags.txt
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\AndroidCollection.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Castle.Core.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Java.Interop.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Mono.Android.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Moq.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\mscorlib.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Portable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Core.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Numerics.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Runtime.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Xml.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Diagnostics.Debug.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Reflection.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Linq.Expressions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Collections.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Reflection.Emit.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.IO.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Reflection.Primitives.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Reflection.Extensions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.ComponentModel.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Text.Encoding.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Threading.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Collections.Specialized.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.ObjectModel.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Dynamic.Runtime.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Linq.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Reflection.TypeExtensions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Resources.ResourceManager.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Runtime.Extensions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Runtime.InteropServices.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Globalization.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.AppContext.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Console.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\netstandard.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Data.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Transactions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.IO.Compression.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Web.Services.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Mono.Security.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\AndroidCollection.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Portable.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\linksrc\Xamarin.Essentials.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\link.flag
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\AndroidCollection.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\AndroidCollection.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Castle.Core.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Moq.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Portable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Portable.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.AppContext.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Collections.Specialized.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Console.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Dynamic.Runtime.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ObjectModel.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.Emit.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.Primitives.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.TypeExtensions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.InteropServices.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Text.Encoding.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86.s
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86_64.s
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86.s
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86_64.s
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\machine.config
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\static.flag
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\buildid.txt
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md50f3fb3f15e400c52618bc2211ca0dfe5\Card.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md50f3fb3f15e400c52618bc2211ca0dfe5\MainActivity.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md50f3fb3f15e400c52618bc2211ca0dfe5\UserActivity.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md50f3fb3f15e400c52618bc2211ca0dfe5\UserAdapter.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\com\companyname\androidcollection\R.java
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\classes.dex
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Admin\Desktop\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\CollectionsInXamarin\AndroidCollection\bin\Debug\AndroidCollection.dll
+D:\CollectionsInXamarin\AndroidCollection\bin\Debug\AndroidCollection.pdb
+D:\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection.apk
+D:\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection-Signed.aab
+D:\CollectionsInXamarin\AndroidCollection\bin\Debug\com.companyname.androidcollection-Signed.apk
+D:\CollectionsInXamarin\AndroidCollection\bin\Debug\Portable.dll
+D:\CollectionsInXamarin\AndroidCollection\bin\Debug\Portable.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\build.props
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\adb.props
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.csprojAssemblyReference.cache
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resourcepaths.cache
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resourcecache.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res.flag
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\6E94999E8715B219.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\A25828C5B9159551.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\B24995E0EE15E1B1.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\61611B446F331ECA.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\8D7C305C3C5490EB.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\C9385F9529548DD3.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\62393BB80F505B1F.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\267D54711A504627.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\366CE9544D5032C7.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\6E94999E8715B219.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\A25828C5B9159551.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\B24995E0EE15E1B1.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\61611B446F331ECA.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\8D7C305C3C5490EB.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\C9385F9529548DD3.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\62393BB80F505B1F.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\267D54711A504627.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\366CE9544D5032C7.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\flata\compiled.flata
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\R.txt
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\R.cs.flag
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.csproj.CopyComplete
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\AndroidCollection.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\com.companyname.androidcollection.apk
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\base.zip
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\com.companyname.androidcollection.aab
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\com.companyname.androidcollection.apks
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\activity_main.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\content_main.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\colors.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\dimens.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\ic_launcher_background.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\strings.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\values\styles.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\menu\menu_main.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image2.jpg
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\card_view.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image1.jpg
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image3.jpg
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image4.jpg
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image5.jpg
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image6.jpg
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\image7.jpg
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\layout\user_activity.xml
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\res\drawable\add.png
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\uploadflags.txt
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\resolvedassemblies.hash
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\AndroidCollection.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\AndroidCollection.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Castle.Core.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Java.Interop.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Android.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Security.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Mono.Security.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Moq.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\mscorlib.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\mscorlib.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\netstandard.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Portable.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Portable.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.AppContext.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Collections.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Collections.Specialized.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ComponentModel.TypeConverter.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Console.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Core.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Core.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Data.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Diagnostics.TraceSource.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Drawing.Common.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Dynamic.Runtime.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Globalization.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.Compression.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.FileSystem.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.IO.FileSystem.Primitives.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Linq.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Net.Http.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ObjectModel.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.Emit.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.Emit.ILGeneration.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.Primitives.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.TypeExtensions.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Reflection.TypeExtensions.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Resources.ResourceManager.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.InteropServices.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Text.Encoding.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Threading.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Threading.Tasks.Extensions.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Transactions.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Transactions.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Web.Services.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Web.Services.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.Linq.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.ReaderWriter.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\System.Xml.XmlDocument.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.arm64-v8a.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.armeabi-v7a.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86_64.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.arm64-v8a.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.armeabi-v7a.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86_64.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\__environment__.txt
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\assets\machine.config
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\mono.android.jar
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\static.flag
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\buildid.txt
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.arm64-v8a.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.armeabi-v7a.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.x86.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.x86_64.s
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\transition\R.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\design\R.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\customtabs\R.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\android\support\compat\R.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64df20ea0efce269a1\Card.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64df20ea0efce269a1\MainActivity.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64df20ea0efce269a1\UserActivity.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\crc64df20ea0efce269a1\UserAdapter.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\packaged_resources
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\src\com\companyname\androidcollection\R.java
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.arm64-v8a.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.arm64-v8a.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.armeabi-v7a.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.armeabi-v7a.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.jm.x86_64.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\typemap.mj.x86_64.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.arm64-v8a.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.armeabi-v7a.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.x86.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\environment.x86_64.o
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\android\bin\classes.dex
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertCustomView.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertLibraryResourcesCases.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\CollectionsInXamarin\AndroidCollection\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
